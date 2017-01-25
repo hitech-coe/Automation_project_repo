@@ -1,0 +1,41 @@
+
+2017-01-25 16:13:26,537 INFO  [Logger] Automation workflow has started 
+2017-01-25 16:13:38,122 INFO  [Logger] Logged in to OpenStaqck Cloud Forms Web Application 
+2017-01-25 16:13:40,150 INFO  [Logger] clicked on Projects 
+2017-01-25 16:13:41,391 INFO  [Logger] Create Projects 
+2017-01-25 16:13:42,643 INFO  [Logger] Name Enter 
+2017-01-25 16:13:44,189 INFO  [Logger] Description Enter 
+2017-01-25 16:13:45,428 INFO  [Logger] clicked on Projects 
+2017-01-25 18:27:40,660 INFO  [Logger] Automation workflow has started 
+2017-01-25 18:28:24,919 INFO  [Logger] Automation workflow has started 
+2017-01-25 18:28:34,593 INFO  [Logger] Logged in to OpenStaqck Cloud Forms Web Application 
+2017-01-25 18:28:46,733 INFO  [Logger] clicked on Projects 
+2017-01-25 18:28:48,023 INFO  [Logger] Create Projects 
+2017-01-25 18:28:49,355 INFO  [Logger] Name Enter 
+2017-01-25 18:28:50,941 INFO  [Logger] Description Enter 
+2017-01-25 18:28:52,253 INFO  [Logger] clicked on Projects 
+2017-01-25 18:28:55,830 INFO  [Logger] Logged in to OpenStaqck Cloud Forms Web Application 
+2017-01-25 18:28:56,055 INFO  [Logger] clicked on Projects 
+2017-01-25 18:28:56,648 INFO  [Logger] Set the Meta Value: 1 
+2017-01-25 18:28:57,859 INFO  [Logger] Set the Core Value: 1 
+2017-01-25 18:28:59,015 INFO  [Logger] Set the Instance Value: 1 
+2017-01-25 18:29:00,210 INFO  [Logger] Set the no of Injected files: 1 
+2017-01-25 18:29:01,367 INFO  [Logger] Set the no of Injected file content: 1 
+2017-01-25 18:29:02,568 INFO  [Logger] Set the Volume value: 1 
+2017-01-25 18:29:03,744 INFO  [Logger] Set the Snapshots value: 1 
+2017-01-25 18:29:04,901 INFO  [Logger] Set the Snapshots value: 1 
+2017-01-25 18:29:06,170 INFO  [Logger] Set the Ram Value: 1 
+2017-01-25 18:29:07,389 INFO  [Logger] clicked on Projects 
+2017-01-25 18:29:08,664 INFO  [Logger] clicked on Projects 
+2017-01-25 18:29:09,202 INFO  [Logger] Create Projects 
+2017-01-25 18:29:09,902 INFO  [Logger] clicked on Projects 
+2017-01-25 18:29:10,476 INFO  [Logger] Name Enter 
+2017-01-25 18:29:11,117 INFO  [Logger] clicked on Projects 
+2017-01-25 18:29:11,860 INFO  [Logger] Description Enter 
+2017-01-25 18:29:12,419 INFO  [Logger] clicked on Projects 
+2017-01-25 18:29:13,294 INFO  [Logger] clicked on Projects 
+2017-01-25 18:29:17,500 INFO  [Logger] Set the Meta Value: 1 
+2017-01-25 18:29:18,875 INFO  [Logger] Set the Core Value: 1 
+2017-01-25 18:29:20,313 INFO  [Logger] Set the Instance Value: 1 
+2017-01-25 18:29:21,644 INFO  [Logger] Set the no of Injected files: 1 
+2017-01-25 18:29:24,889 INFO  [Logger] Set the no of Injected file content: 1 
